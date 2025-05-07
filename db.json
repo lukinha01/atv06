@@ -1,0 +1,61 @@
+{
+    "contatos": [
+        {
+            "id": 1,
+            "name": "Claudia Alves",
+            "message": "Do more of what you love.",
+            "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+            "unread": 3,
+            "time": "3m ago"
+        },
+        {
+            "id": 2,
+            "name": "Dani Martinez",
+            "message": "Do your own thing.",
+            "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+            "unread": 1,
+            "time": "5m ago"
+        },
+        {
+            "id": 3,
+            "name": "Kimberly Nguyen",
+            "message": "Kindness is beautiful.",
+            "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+            "unread": 2,
+            "time": "1H ago"
+        },
+        {
+            "id": 4,
+            "name": "Mariana Napolitani",
+            "message": "Live your purpose.",
+            "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+            "unread": 1,
+            "time": "2H ago"
+        },
+        {
+            "id": 5,
+            "name": "Olivia Wilson",
+            "message": "You got this.",
+            "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+            "unread": 0,
+            "time": "5H ago"
+        },
+        {
+            "id": 6,
+            "name": "Rachelle Beaudry",
+            "message": "You're wonderful.",
+            "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+            "unread": 0,
+            "time": "Yesterday"
+        },
+        {
+            "id": 7,
+            "name": "Soo Jin Ae",
+            "message": "Keep it simple.",
+            "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+            "unread": 0,
+            "time": "Yesterday"
+        }
+    ]
+  }
+  
